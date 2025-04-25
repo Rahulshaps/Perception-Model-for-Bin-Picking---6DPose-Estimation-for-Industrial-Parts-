@@ -1,0 +1,1 @@
+1. We are using Industrial Plentopic Dataset by Intrinsic AI. We store the whole dataset at this location but the dataset is huge (compressed files are ~ 250GB) so we have excluded from our submission but you can find the ipd_test which is the validation part of the dataset. You can download the dataset by running the dataset_setup.sh

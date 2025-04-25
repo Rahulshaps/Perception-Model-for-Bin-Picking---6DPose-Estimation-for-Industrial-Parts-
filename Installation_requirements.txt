@@ -1,0 +1,26 @@
+"""
+Author: Rahul Sha Pathepur Shankar, Vaishnav Raja & Reza Farrokhi Saray
+CS 5330 Pattern Recognition and Computer Vision - Spring 2025 - Final Project
+
+This code is part of the pose estimation for the Industrial Plentopic Dataset (IPD)
+This file contains the requirements for the Dockerfile to run the code 
+The versions are specified to ensure compatibility with the working of the code
+"""
+
+numpy==1.26.4
+scipy==1.14.0
+opencv-python==4.8.0.74
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+tensorboard==2.18.0
+ultralytics==8.3.61
+matplotlib==3.10.0
+Pillow==10.2.0
+tqdm==4.67.1
+pyrender==0.1.45
+pyglet==2.1.1
+trimesh==4.5.3
+pythreejs==2.4.0
+ipywidgets==8.0.6
+jupyter
